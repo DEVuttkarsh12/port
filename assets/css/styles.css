@@ -534,7 +534,7 @@ img {
   }
 }
 
-/* .container {
+.container {
   position: relative;
   width: 100%;
   min-height: 100vh;
@@ -903,4 +903,15 @@ textarea.input {
   .btn {
     padding: 0.45rem 1.2rem;
   }
-} */
+}
+
+
+
+
+.ry {
+  height: 294px;
+  width\20px: ;
+  margin-left: 62px;
+  margin-top: 108px;
+  border-radius: 30px;
+}
